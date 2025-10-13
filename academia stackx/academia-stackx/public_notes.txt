@@ -1,0 +1,7 @@
+Este projeto foi criado automaticamente pelo assistente. Para seguir os passos originais do seu enunciado (usando Create React App) você pode:
+
+1) Instalar create-react-app globalmente: npm i -g create-react-app
+2) Executar: npx create-react-app academia-stackx-cra
+3) Copiar os componentes de src/ para o novo projeto e ajustar estilos.
+
+A versão aqui usa Parcel para simplicidade e velocidade local.

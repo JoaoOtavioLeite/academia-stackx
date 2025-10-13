@@ -1,0 +1,1 @@
+Os estilos principais estão em src/App.css. Se quiser separar por componentes, crie arquivos CSS adicionais (ex: Header.css) e importe dentro do componente.
